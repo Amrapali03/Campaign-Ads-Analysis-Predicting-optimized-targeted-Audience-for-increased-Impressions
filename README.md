@@ -1,4 +1,4 @@
-# Amazon-Ads-Project-SU
+# Amazon-Ads-Project
 
 ## Data Source:
 This is a Boardroom Analytics project done partnering with Amazon Ads team.

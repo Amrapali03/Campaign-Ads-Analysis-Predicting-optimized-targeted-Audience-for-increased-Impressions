@@ -12,6 +12,8 @@ Aimed at optimizing new-to-brand segment by leveraging Python, Machine Learning 
 
 
 ## Results
-Documentation link
-![image](https://github.com/user-attachments/assets/db907d48-f495-4da9-9941-293675a84be8)
+Documentation link:
+https://github.com/Amrapali03/Campaign-Ads-Analysis-Predicting-optimized-targeted-Audience-for-increased-Impressions/blob/main/Campaign%20Ads%20Analysis%20Project.docx
+Presentation link:
+
 
